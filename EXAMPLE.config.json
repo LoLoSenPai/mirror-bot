@@ -1,0 +1,54 @@
+{
+  "token": "token_of_the_user_present_in_the_source_channel",
+  "mappings": [
+    {
+      "source_channel_id": "1185038119490289704",
+      "webhook": {
+        "token": "ga2nC4bDa4QqWUY66IzGV9OeeRMpJQ3Dr0IBPNi7YcNrxDCjPgcGcTbNNeEwVZs3vbhT",
+        "id": "1188271225001234503"
+      }
+    },
+    {
+      "source_channel_id": "1173746780807106590",
+      "webhook": {
+        "token": "W7Gbg6lEeteyoET-vvdzYb2x5rn2-lDrOKIUWc9b6qXwR3n8QCktqg9DsHecNIqyuHp9",
+        "id": "1188288845125529692"
+      }
+    },
+    {
+      "source_channel_id": "1138303081952583690",
+      "webhook": {
+        "token": "60H7PP5vMBWmm0Ho7AzjtpKZz_zcm8JKXWAVfdrWKmEbaiWkSGj7YVO9r8wZugaaLN5E",
+        "id": "1188947127678812161"
+      }
+    },
+    {
+      "source_channel_id": "1151900940568363118",
+      "webhook": {
+        "token": "TpEViZnD5g4BSnYARdM1f6cwk-3ITCLGWby173_3I5Xv7PM3rn0STz2-lohXvsDVmyc8",
+        "id": "1188951411132727308"
+      }
+    },
+    {
+      "source_channel_id": "1020547866772652052",
+      "webhook": {
+        "token": "LvlZJTcKwElU5qs4pqabEPJYew72dbunrJd7mWCVFsYtVRqTVrTy07yV3nSKt5aDhPWF",
+        "id": "1188951924393906176"
+      }
+    },
+    {
+      "source_channel_id": "1131717402770538537",
+      "webhook": {
+        "token": "9IIXsY4-BVgUD1mBTILm2zoo8KOBH_wR_VRgiYl5TM3UvKNJL6zf6uZFQC3csubkrKJE",
+        "id": "1188952073207812227"
+      }
+    },
+    {
+      "source_channel_id": "1177570844977938484",
+      "webhook": {
+        "token": "MzZI5JOWVKIywOodgyEH-UIQS7EVALh4e1YHBU3lSamJSUgjMgZMSiD0yZXCBqnBvf8q",
+        "id": "1188952280897159168"
+      }
+    }
+  ]
+}
